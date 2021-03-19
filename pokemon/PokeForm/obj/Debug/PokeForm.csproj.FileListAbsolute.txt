@@ -1,0 +1,9 @@
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\bin\Debug\PokeForm.exe.config
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\bin\Debug\PokeForm.exe
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\bin\Debug\PokeForm.pdb
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.csprojAssemblyReference.cache
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.Properties.Resources.resources
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.csproj.GenerateResource.cache
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.csproj.CoreCompileInputs.cache
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.exe
+C:\Users\gabeb\OneDrive\Documents\csharp\pokemon\PokeForm\obj\Debug\PokeForm.pdb
