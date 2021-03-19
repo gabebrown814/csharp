@@ -1,2 +1,1 @@
-# csharp
-C# projects.
+C# repo for personal projects.
